@@ -45,8 +45,6 @@ public class Calculator {
             answer = multiply(answer, number1);
             number2--;
         }
-
-
         return answer;
     }
 
